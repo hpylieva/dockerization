@@ -1,0 +1,4 @@
+Those fiels were created following the instructions by link: https://dzone.com/articles/run-simple-jar-application-in-docker-container-1
+As a result a docker image was pushed on my repository.
+To run it: 
+$ docker run hpylieva/java-helloworld
